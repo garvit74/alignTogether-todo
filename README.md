@@ -1,6 +1,3 @@
-Certainly! Here's the README content in Markdown:
-
-```markdown
 # TODO App Backend
 
 This is the backend server for a TODO app. It provides API endpoints for managing TODOs and user authentication.
