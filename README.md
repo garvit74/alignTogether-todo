@@ -124,8 +124,7 @@ This is the backend server for a TODO app. It provides API endpoints for managin
 
 ## Contributors
 
-- [Your Name](https://github.com/your-username)
-- ...
+- [Garvit Agrawal](https://github.com/garvit74)
 
 Feel free to contribute by opening issues or pull requests!
 ```
