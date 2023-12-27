@@ -41,6 +41,8 @@ This is the backend server for a TODO app. It provides API endpoints for managin
   }
   ```
 
+  ![Alt text](image.png)
+
 #### Login
 
 - **Endpoint:** `POST /login`
@@ -59,6 +61,8 @@ This is the backend server for a TODO app. It provides API endpoints for managin
   }
   ```
 
+  ![Alt text](image-1.png)
+
 ### TODO Management
 
 #### Get Todos
@@ -69,6 +73,8 @@ This is the backend server for a TODO app. It provides API endpoints for managin
   ```
   Authorization: Bearer your_jwt_token
   ```
+
+  ![Alt text](image-3.png)
 
 #### Add Todo
 
@@ -86,6 +92,8 @@ This is the backend server for a TODO app. It provides API endpoints for managin
     "completed": false
   }
   ```
+
+  ![Alt text](image-2.png)
 
 #### Update Todo
 
@@ -113,6 +121,7 @@ This is the backend server for a TODO app. It provides API endpoints for managin
   Authorization: Bearer your_jwt_token
   ```
 
+![Alt text](image-4.png)
 ## Technologies Used
 
 - Node.js
